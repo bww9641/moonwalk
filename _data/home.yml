@@ -2,11 +2,11 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
+  - title: posts
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: notion
+    url: https://www.notion.so/ainsetin/Ainsetin-s-Write-up-c1a0fb95760b41508d54ce94dc3601c5
 
 project_entries:
   - title: Project 1
@@ -54,14 +54,14 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: tistory
+    url: https://ainsetin.tistory.com
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/ainsetin
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/bww9641
 
   - title: feed
     url: feed.xml

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: "Language Tests"
 ---
 
